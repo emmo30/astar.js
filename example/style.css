@@ -1,0 +1,17 @@
+.CanvasDesign{
+	border-style: solid;
+	border-color: #aaa;
+	border: 0px;
+	background-color: #000;
+	width: 800px;
+	margin: 20px auto;
+	/*margin: -10px;*/
+}
+div{
+	width: 800px;
+	margin: 20px auto;
+}
+body{
+	background-color: #1f1915;
+	color: #fff;
+}

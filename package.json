@@ -1,0 +1,34 @@
+{
+  "name": "find2d",
+  "version": "1.0.3",
+  "description": "A* Pathfinder Algorithme for node.js 2d game",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emmo30/astar.js"
+  },
+  "keywords": [
+    "a*",
+    "astar",
+    "pathfinder",
+    "algorithme",
+    "2d",
+    "game"
+  ],
+  "author": "Emre Monun",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/emmo30/astar.js/issues"
+  },
+  "homepage": "https://github.com/emmo30/astar.js",
+  "_shasum": "b41c1497d1e30db6ce310585f61689625ce628db",
+  "_from": "find2d@"
+}
